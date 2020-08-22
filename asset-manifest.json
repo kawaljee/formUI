@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/formUI/static/css/main.838a69de.chunk.css",
+    "main.js": "/formUI/static/js/main.05a75c88.chunk.js",
+    "main.js.map": "/formUI/static/js/main.05a75c88.chunk.js.map",
+    "runtime-main.js": "/formUI/static/js/runtime-main.b9b033f9.js",
+    "runtime-main.js.map": "/formUI/static/js/runtime-main.b9b033f9.js.map",
+    "static/js/2.46be6af0.chunk.js": "/formUI/static/js/2.46be6af0.chunk.js",
+    "static/js/2.46be6af0.chunk.js.map": "/formUI/static/js/2.46be6af0.chunk.js.map",
+    "index.html": "/formUI/index.html",
+    "precache-manifest.1f97bfc5ee655535378d86f55e9ab97b.js": "/formUI/precache-manifest.1f97bfc5ee655535378d86f55e9ab97b.js",
+    "service-worker.js": "/formUI/service-worker.js",
+    "static/css/main.838a69de.chunk.css.map": "/formUI/static/css/main.838a69de.chunk.css.map",
+    "static/js/2.46be6af0.chunk.js.LICENSE.txt": "/formUI/static/js/2.46be6af0.chunk.js.LICENSE.txt",
+    "static/media/university.png": "/formUI/static/media/university.f57984fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9b033f9.js",
+    "static/js/2.46be6af0.chunk.js",
+    "static/css/main.838a69de.chunk.css",
+    "static/js/main.05a75c88.chunk.js"
+  ]
+}
